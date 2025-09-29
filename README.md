@@ -43,6 +43,8 @@ streamlit run app.py --server.address 0.0.0.0 --server.port 8501
 
 ![image](./Screenshot.png)
 
+## 아키텍쳐 구성도
+![image](./architecture_diagram.png)
 
 ## 필수 Python 모듈
 
