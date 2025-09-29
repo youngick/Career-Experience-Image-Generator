@@ -41,6 +41,9 @@ streamlit run app.py --server.address 0.0.0.0 --server.port 8501
 - Cloud9 환경: Preview → Preview Running Application
 - 로컬: http://localhost:8501
 
+![image](./Screenshot.png)
+
+
 ## 필수 Python 모듈
 
 ```
